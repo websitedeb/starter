@@ -14,6 +14,17 @@
   python lillie.config.py
 ```
 
+## 🌷 Building Lillie ~ 🌷 ##
+
+🌸 to start the building process, run-
+```bash
+  builder build <OUTPUT_LOCATION> <ASSETS_FOLDER_LOCATION>
+```
+🌸 to clean your build away, run-
+```bash
+  builder clean
+```
+
 # ❤️Thanks Too!❤️ #
 
 <img src="https://raw.githubusercontent.com/reactive-python/reactpy/refs/heads/main/branding/png/reactpy-logo-landscape.png" alt="reactpy" width="300px" height="100px"/>
