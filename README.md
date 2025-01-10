@@ -11,6 +11,10 @@
 
 🌸 to start the project, run-
 ```bash
+  start-lillie
+```
+or
+```bash
   python lillie.config.py
 ```
 
